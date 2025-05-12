@@ -1,0 +1,2036 @@
+[
+  {
+    "Country": "Afghanistan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 20,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "AF"
+  },
+  {
+    "Country": "Aland Islands",
+    "Continent": "EU",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "AX"
+  },
+  {
+    "Country": "Albania",
+    "Continent": "EU",
+    "Corporate Tax Rate": 15,
+    "Highest Income Tax Rate": 23,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "AL"
+  },
+  {
+    "Country": "Algeria",
+    "Continent": "AF",
+    "Corporate Tax Rate": 26,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 19,
+    "Summary": "",
+    "ISO": "DZ"
+  },
+  {
+    "Country": "American Samoa",
+    "Continent": "OC",
+    "Corporate Tax Rate": 34,
+    "Highest Income Tax Rate": 6,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "AS"
+  },
+  {
+    "Country": "Andorra",
+    "Continent": "EU",
+    "Corporate Tax Rate": 10,
+    "Highest Income Tax Rate": 10,
+    "VAT Rate": 4.5,
+    "Summary": "",
+    "ISO": "AD"
+  },
+  {
+    "Country": "Angola",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 17,
+    "VAT Rate": 14,
+    "Summary": "",
+    "ISO": "AO"
+  },
+  {
+    "Country": "Anguilla",
+    "Continent": "NO",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "AI"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Continent": "NO",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "AG"
+  },
+  {
+    "Country": "Argentina",
+    "Continent": "SA",
+    "Corporate Tax Rate": 35,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 21,
+    "Summary": "",
+    "ISO": "AR"
+  },
+  {
+    "Country": "Armenia",
+    "Continent": "AS",
+    "Corporate Tax Rate": 18,
+    "Highest Income Tax Rate": 22,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "AM"
+  },
+  {
+    "Country": "Aruba",
+    "Continent": "NO",
+    "Corporate Tax Rate": 22,
+    "Highest Income Tax Rate": 58.95,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "AW"
+  },
+  {
+    "Country": "Australia",
+    "Continent": "OC",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 45,
+    "VAT Rate": 10,
+    "Summary": "",
+    "ISO": "AU"
+  },
+  {
+    "Country": "Austria",
+    "Continent": "EU",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 55,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "AT"
+  },
+  {
+    "Country": "Azerbaijan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "AZ"
+  },
+  {
+    "Country": "Bahamas",
+    "Continent": "NO",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 12,
+    "Summary": "",
+    "ISO": "BS"
+  },
+  {
+    "Country": "Bahrain",
+    "Continent": "AS",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 10,
+    "Summary": "",
+    "ISO": "BH"
+  },
+  {
+    "Country": "Bangladesh",
+    "Continent": "AS",
+    "Corporate Tax Rate": 27.5,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "BD"
+  },
+  {
+    "Country": "Barbados",
+    "Continent": "NO",
+    "Corporate Tax Rate": 5.5,
+    "Highest Income Tax Rate": 38,
+    "VAT Rate": 17.5,
+    "Summary": "",
+    "ISO": "BB"
+  },
+  {
+    "Country": "Belarus",
+    "Continent": "EU",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 43.37,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "BY"
+  },
+  {
+    "Country": "Belgium",
+    "Continent": "EU",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 60.45,
+    "VAT Rate": 21,
+    "Summary": "",
+    "ISO": "BE"
+  },
+  {
+    "Country": "Belize",
+    "Continent": "NO",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 12.5,
+    "Summary": "",
+    "ISO": "BZ"
+  },
+  {
+    "Country": "Benin",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "BJ"
+  },
+  {
+    "Country": "Bermuda",
+    "Continent": "NO",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "BM"
+  },
+  {
+    "Country": "Bhutan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "BT"
+  },
+  {
+    "Country": "Bolivia (Plurinational State of)",
+    "Continent": "SA",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 13,
+    "Summary": "",
+    "ISO": "BO"
+  },
+  {
+    "Country": "Bonaire, Sint Eustatius and Saba",
+    "Continent": "NO",
+    "Corporate Tax Rate": 25.8,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "NL"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Continent": "EU",
+    "Corporate Tax Rate": 10,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 17,
+    "Summary": "",
+    "ISO": "BA"
+  },
+  {
+    "Country": "Botswana",
+    "Continent": "AF",
+    "Corporate Tax Rate": 22,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 14,
+    "Summary": "",
+    "ISO": "BW"
+  },
+  {
+    "Country": "Brazil",
+    "Continent": "SA",
+    "Corporate Tax Rate": 34,
+    "Highest Income Tax Rate": 27.5,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "BR"
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Continent": "NO",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "VG"
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "Continent": "AS",
+    "Corporate Tax Rate": 18.5,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "BN"
+  },
+  {
+    "Country": "Bulgaria",
+    "Continent": "EU",
+    "Corporate Tax Rate": 10,
+    "Highest Income Tax Rate": 10,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "BG"
+  },
+  {
+    "Country": "Burkina Faso",
+    "Continent": "AF",
+    "Corporate Tax Rate": 27.5,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "BF"
+  },
+  {
+    "Country": "Burundi",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "BI"
+  },
+  {
+    "Country": "Cabo Verde",
+    "Continent": "AF",
+    "Corporate Tax Rate": 22.44,
+    "Highest Income Tax Rate": 27.5,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "CV"
+  },
+  {
+    "Country": "Cambodia",
+    "Continent": "AS",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 20,
+    "VAT Rate": 10,
+    "Summary": "",
+    "ISO": "KH"
+  },
+  {
+    "Country": "Cameroon",
+    "Continent": "AF",
+    "Corporate Tax Rate": 33,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 19.25,
+    "Summary": "",
+    "ISO": "CM"
+  },
+  {
+    "Country": "Canada",
+    "Continent": "NO",
+    "Corporate Tax Rate": 26.21,
+    "Highest Income Tax Rate": 58.5,
+    "VAT Rate": 5,
+    "Summary": "",
+    "ISO": "CA"
+  },
+  {
+    "Country": "Cayman Islands",
+    "Continent": "NO",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "KY"
+  },
+  {
+    "Country": "Central African Republic",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 50,
+    "VAT Rate": 19,
+    "Summary": "",
+    "ISO": "CF"
+  },
+  {
+    "Country": "Chad",
+    "Continent": "AF",
+    "Corporate Tax Rate": 35,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "TD"
+  },
+  {
+    "Country": "Chile",
+    "Continent": "SA",
+    "Corporate Tax Rate": 27,
+    "Highest Income Tax Rate": 40,
+    "VAT Rate": 19,
+    "Summary": "",
+    "ISO": "CL"
+  },
+  {
+    "Country": "China",
+    "Continent": "AS",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 45,
+    "VAT Rate": 13,
+    "Summary": "",
+    "ISO": "CN"
+  },
+  {
+    "Country": "China, Hong Kong Special Administrative Region",
+    "Continent": "AS",
+    "Corporate Tax Rate": 16.5,
+    "Highest Income Tax Rate": 15,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "HK"
+  },
+  {
+    "Country": "China, Macao Special Administrative Region",
+    "Continent": "AS",
+    "Corporate Tax Rate": 12,
+    "Highest Income Tax Rate": 12,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "MO"
+  },
+  {
+    "Country": "Colombia",
+    "Continent": "SA",
+    "Corporate Tax Rate": 35,
+    "Highest Income Tax Rate": 39,
+    "VAT Rate": 19,
+    "Summary": "",
+    "ISO": "CO"
+  },
+  {
+    "Country": "Comoros",
+    "Continent": "AF",
+    "Corporate Tax Rate": 50,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "KM"
+  },
+  {
+    "Country": "Congo",
+    "Continent": "AF",
+    "Corporate Tax Rate": 28,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "CG"
+  },
+  {
+    "Country": "Cook Islands",
+    "Continent": "OC",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 30,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "CK"
+  },
+  {
+    "Country": "Costa Rica",
+    "Continent": "NO",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 13,
+    "Summary": "",
+    "ISO": "CR"
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "CI"
+  },
+  {
+    "Country": "Croatia",
+    "Continent": "EU",
+    "Corporate Tax Rate": 18,
+    "Highest Income Tax Rate": 40,
+    "VAT Rate": 25,
+    "Summary": "",
+    "ISO": "HR"
+  },
+  {
+    "Country": "Cuba",
+    "Continent": "NO",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 50,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "CU"
+  },
+  {
+    "Country": "Curacao",
+    "Continent": "NO",
+    "Corporate Tax Rate": 22,
+    "Highest Income Tax Rate": 46.5,
+    "VAT Rate": 6,
+    "Summary": "",
+    "ISO": "CW"
+  },
+  {
+    "Country": "Cyprus",
+    "Continent": "EU",
+    "Corporate Tax Rate": 12.5,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 19,
+    "Summary": "",
+    "ISO": "CY"
+  },
+  {
+    "Country": "Czechia",
+    "Continent": "EU",
+    "Corporate Tax Rate": 19,
+    "Highest Income Tax Rate": 45.7,
+    "VAT Rate": 21,
+    "Summary": "",
+    "ISO": "CZ"
+  },
+  {
+    "Country": "Democratic Republic of the Congo",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 40,
+    "VAT Rate": 16,
+    "Summary": "",
+    "ISO": "CD"
+  },
+  {
+    "Country": "Denmark",
+    "Continent": "EU",
+    "Corporate Tax Rate": 22,
+    "Highest Income Tax Rate": 55.9,
+    "VAT Rate": 25,
+    "Summary": "",
+    "ISO": "DK"
+  },
+  {
+    "Country": "Djibouti",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "DJ"
+  },
+  {
+    "Country": "Dominica",
+    "Continent": "NO",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "DM"
+  },
+  {
+    "Country": "Dominican Republic",
+    "Continent": "NO",
+    "Corporate Tax Rate": 27,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "DO"
+  },
+  {
+    "Country": "Ecuador",
+    "Continent": "SA",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 12,
+    "Summary": "",
+    "ISO": "EC"
+  },
+  {
+    "Country": "Egypt",
+    "Continent": "AF",
+    "Corporate Tax Rate": 22.5,
+    "Highest Income Tax Rate": 22.5,
+    "VAT Rate": 14,
+    "Summary": "",
+    "ISO": "EG"
+  },
+  {
+    "Country": "El Salvador",
+    "Continent": "NO",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 30,
+    "VAT Rate": 13,
+    "Summary": "",
+    "ISO": "SV"
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Continent": "AF",
+    "Corporate Tax Rate": 35,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "GQ"
+  },
+  {
+    "Country": "Eritrea",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "ER"
+  },
+  {
+    "Country": "Estonia",
+    "Continent": "EU",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 23.6,
+    "VAT Rate": 22,
+    "Summary": "",
+    "ISO": "EE"
+  },
+  {
+    "Country": "Eswatini (Swaziland)",
+    "Continent": "AF",
+    "Corporate Tax Rate": 27.5,
+    "Highest Income Tax Rate": 33,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "SZ"
+  },
+  {
+    "Country": "Ethiopia",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "ET"
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "Continent": "SA",
+    "Corporate Tax Rate": 26,
+    "Highest Income Tax Rate": 26,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "FK"
+  },
+  {
+    "Country": "Faroe Islands",
+    "Continent": "EU",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 25,
+    "Summary": "",
+    "ISO": "FO"
+  },
+  {
+    "Country": "Fiji",
+    "Continent": "OC",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 20,
+    "VAT Rate": 9,
+    "Summary": "",
+    "ISO": "FJ"
+  },
+  {
+    "Country": "Finland",
+    "Continent": "EU",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 53.61,
+    "VAT Rate": 24,
+    "Summary": "",
+    "ISO": "FI"
+  },
+  {
+    "Country": "France",
+    "Continent": "EU",
+    "Corporate Tax Rate": 25.825,
+    "Highest Income Tax Rate": 55.4,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "FR"
+  },
+  {
+    "Country": "French Polynesia",
+    "Continent": "OC",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 40,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "PF"
+  },
+  {
+    "Country": "Gabon",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "GA"
+  },
+  {
+    "Country": "Gambia",
+    "Continent": "AF",
+    "Corporate Tax Rate": 27,
+    "Highest Income Tax Rate": 30,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "GM"
+  },
+  {
+    "Country": "Georgia",
+    "Continent": "AS",
+    "Corporate Tax Rate": 15,
+    "Highest Income Tax Rate": 20,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "GE"
+  },
+  {
+    "Country": "Germany",
+    "Continent": "EU",
+    "Corporate Tax Rate": 29.941,
+    "Highest Income Tax Rate": 45,
+    "VAT Rate": 19,
+    "Summary": "",
+    "ISO": "DE"
+  },
+  {
+    "Country": "Ghana",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 12.5,
+    "Summary": "",
+    "ISO": "GH"
+  },
+  {
+    "Country": "Gibraltar",
+    "Continent": "EU",
+    "Corporate Tax Rate": 10,
+    "Highest Income Tax Rate": 40,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "GI"
+  },
+  {
+    "Country": "Greece",
+    "Continent": "EU",
+    "Corporate Tax Rate": 22,
+    "Highest Income Tax Rate": 44,
+    "VAT Rate": 24,
+    "Summary": "",
+    "ISO": "GR"
+  },
+  {
+    "Country": "Greenland",
+    "Continent": "NO",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "GL"
+  },
+  {
+    "Country": "Grenada",
+    "Continent": "NO",
+    "Corporate Tax Rate": 28,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "GD"
+  },
+  {
+    "Country": "Guam",
+    "Continent": "OC",
+    "Corporate Tax Rate": 21,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "GU"
+  },
+  {
+    "Country": "Guatemala",
+    "Continent": "NO",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 7,
+    "VAT Rate": 12,
+    "Summary": "",
+    "ISO": "GT"
+  },
+  {
+    "Country": "Guernsey",
+    "Continent": "EU",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 22,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "GG"
+  },
+  {
+    "Country": "Guinea",
+    "Continent": "AF",
+    "Corporate Tax Rate": 35,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "GN"
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "GW"
+  },
+  {
+    "Country": "Guyana",
+    "Continent": "SA",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 40,
+    "VAT Rate": 14,
+    "Summary": "",
+    "ISO": "GY"
+  },
+  {
+    "Country": "Haiti",
+    "Continent": "NO",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 30,
+    "VAT Rate": 10,
+    "Summary": "",
+    "ISO": "HT"
+  },
+  {
+    "Country": "Honduras",
+    "Continent": "NO",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "HN"
+  },
+  {
+    "Country": "Hungary",
+    "Continent": "EU",
+    "Corporate Tax Rate": 9,
+    "Highest Income Tax Rate": 15,
+    "VAT Rate": 27,
+    "Summary": "",
+    "ISO": "HU"
+  },
+  {
+    "Country": "Iceland",
+    "Continent": "EU",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 46.28,
+    "VAT Rate": 24,
+    "Summary": "",
+    "ISO": "IS"
+  },
+  {
+    "Country": "India",
+    "Continent": "AS",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 39,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "IN"
+  },
+  {
+    "Country": "Indonesia",
+    "Continent": "AS",
+    "Corporate Tax Rate": 22,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 11,
+    "Summary": "",
+    "ISO": "ID"
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "Continent": "AS",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 9,
+    "Summary": "",
+    "ISO": "IR"
+  },
+  {
+    "Country": "Iraq",
+    "Continent": "AS",
+    "Corporate Tax Rate": 15,
+    "Highest Income Tax Rate": 15,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "IQ"
+  },
+  {
+    "Country": "Ireland",
+    "Continent": "EU",
+    "Corporate Tax Rate": 12.5,
+    "Highest Income Tax Rate": 52.1,
+    "VAT Rate": 23,
+    "Summary": "",
+    "ISO": "IE"
+  },
+  {
+    "Country": "Isle of Man",
+    "Continent": "EU",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 22,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "IM"
+  },
+  {
+    "Country": "Israel",
+    "Continent": "AS",
+    "Corporate Tax Rate": 23,
+    "Highest Income Tax Rate": 50,
+    "VAT Rate": 17,
+    "Summary": "",
+    "ISO": "IL"
+  },
+  {
+    "Country": "Italy",
+    "Continent": "EU",
+    "Corporate Tax Rate": 27.9,
+    "Highest Income Tax Rate": 43,
+    "VAT Rate": 22,
+    "Summary": "",
+    "ISO": "IT"
+  },
+  {
+    "Country": "Jamaica",
+    "Continent": "NO",
+    "Corporate Tax Rate": 33.3,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "JM"
+  },
+  {
+    "Country": "Japan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 29.74,
+    "Highest Income Tax Rate": 50.5,
+    "VAT Rate": 10,
+    "Summary": "",
+    "ISO": "JP"
+  },
+  {
+    "Country": "Jersey",
+    "Continent": "EU",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 20,
+    "VAT Rate": 5,
+    "Summary": "",
+    "ISO": "JE"
+  },
+  {
+    "Country": "Jordan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 16,
+    "Summary": "",
+    "ISO": "JO"
+  },
+  {
+    "Country": "Kazakhstan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 15,
+    "VAT Rate": 12,
+    "Summary": "",
+    "ISO": "KZ"
+  },
+  {
+    "Country": "Kenya",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 16,
+    "Summary": "",
+    "ISO": "KE"
+  },
+  {
+    "Country": "Kiribati",
+    "Continent": "OC",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "KI"
+  },
+  {
+    "Country": "Kosovo, Republic of",
+    "Continent": "EU",
+    "Corporate Tax Rate": 10,
+    "Highest Income Tax Rate": 10,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "XK"
+  },
+  {
+    "Country": "Kuwait",
+    "Continent": "AS",
+    "Corporate Tax Rate": 15,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 10,
+    "Summary": "",
+    "ISO": "KW"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 10,
+    "Highest Income Tax Rate": 10,
+    "VAT Rate": 12,
+    "Summary": "",
+    "ISO": "KG"
+  },
+  {
+    "Country": "Laos",
+    "Continent": "AS",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "LA"
+  },
+  {
+    "Country": "Latvia",
+    "Continent": "EU",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 31.4,
+    "VAT Rate": 21,
+    "Summary": "",
+    "ISO": "LV"
+  },
+  {
+    "Country": "Lebanon",
+    "Continent": "AS",
+    "Corporate Tax Rate": 17,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 11,
+    "Summary": "",
+    "ISO": "LB"
+  },
+  {
+    "Country": "Lesotho",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "LS"
+  },
+  {
+    "Country": "Liberia",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "LR"
+  },
+  {
+    "Country": "Libya",
+    "Continent": "AF",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "LY"
+  },
+  {
+    "Country": "Liechtenstein",
+    "Continent": "EU",
+    "Corporate Tax Rate": 12.5,
+    "Highest Income Tax Rate": 22.4,
+    "VAT Rate": 8,
+    "Summary": "",
+    "ISO": "LI"
+  },
+  {
+    "Country": "Lithuania",
+    "Continent": "EU",
+    "Corporate Tax Rate": 15,
+    "Highest Income Tax Rate": 42.77,
+    "VAT Rate": 21,
+    "Summary": "",
+    "ISO": "LT"
+  },
+  {
+    "Country": "Luxembourg",
+    "Continent": "EU",
+    "Corporate Tax Rate": 24.94,
+    "Highest Income Tax Rate": 44.2,
+    "VAT Rate": 17,
+    "Summary": "",
+    "ISO": "LU"
+  },
+  {
+    "Country": "Madagascar",
+    "Continent": "AF",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "MG"
+  },
+  {
+    "Country": "Malawi",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 16.5,
+    "Summary": "",
+    "ISO": "MW"
+  },
+  {
+    "Country": "Malaysia",
+    "Continent": "AS",
+    "Corporate Tax Rate": 24,
+    "Highest Income Tax Rate": 30,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "MY"
+  },
+  {
+    "Country": "Maldives",
+    "Continent": "AS",
+    "Corporate Tax Rate": 15,
+    "Highest Income Tax Rate": 15,
+    "VAT Rate": 6,
+    "Summary": "",
+    "ISO": "MV"
+  },
+  {
+    "Country": "Mali",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "ML"
+  },
+  {
+    "Country": "Malta",
+    "Continent": "EU",
+    "Corporate Tax Rate": 35,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "MT"
+  },
+  {
+    "Country": "Mauritania",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 16,
+    "Summary": "",
+    "ISO": "MR"
+  },
+  {
+    "Country": "Mauritius",
+    "Continent": "AF",
+    "Corporate Tax Rate": 15,
+    "Highest Income Tax Rate": 20,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "MU"
+  },
+  {
+    "Country": "Mexico",
+    "Continent": "NO",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 16,
+    "Summary": "",
+    "ISO": "MX"
+  },
+  {
+    "Country": "Micronesia (Federated States of)",
+    "Continent": "OC",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "FM"
+  },
+  {
+    "Country": "Moldova, Republic of",
+    "Continent": "EU",
+    "Corporate Tax Rate": 12,
+    "Highest Income Tax Rate": 12,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "MD"
+  },
+  {
+    "Country": "Monaco",
+    "Continent": "EU",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "MC"
+  },
+  {
+    "Country": "Mongolia",
+    "Continent": "AS",
+    "Corporate Tax Rate": 10,
+    "Highest Income Tax Rate": 10,
+    "VAT Rate": 10,
+    "Summary": "",
+    "ISO": "MN"
+  },
+  {
+    "Country": "Montenegro",
+    "Continent": "EU",
+    "Corporate Tax Rate": 9,
+    "Highest Income Tax Rate": 15,
+    "VAT Rate": 21,
+    "Summary": "",
+    "ISO": "ME"
+  },
+  {
+    "Country": "Montserrat",
+    "Continent": "NO",
+    "Corporate Tax Rate": 33,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "MS"
+  },
+  {
+    "Country": "Morocco",
+    "Continent": "AF",
+    "Corporate Tax Rate": 31,
+    "Highest Income Tax Rate": 38,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "MA"
+  },
+  {
+    "Country": "Mozambique",
+    "Continent": "AF",
+    "Corporate Tax Rate": 32,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 17,
+    "Summary": "",
+    "ISO": "MZ"
+  },
+  {
+    "Country": "Myanmar",
+    "Continent": "AS",
+    "Corporate Tax Rate": 22,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "MM"
+  },
+  {
+    "Country": "Namibia",
+    "Continent": "AF",
+    "Corporate Tax Rate": 32,
+    "Highest Income Tax Rate": 37,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "NA"
+  },
+  {
+    "Country": "Nauru",
+    "Continent": "OC",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "NR"
+  },
+  {
+    "Country": "Nepal",
+    "Continent": "AS",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 36,
+    "VAT Rate": 13,
+    "Summary": "",
+    "ISO": "NP"
+  },
+  {
+    "Country": "Netherlands",
+    "Continent": "EU",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 49.5,
+    "VAT Rate": 21,
+    "Summary": "",
+    "ISO": "NL"
+  },
+  {
+    "Country": "New Caledonia",
+    "Continent": "OC",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 40,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "NC"
+  },
+  {
+    "Country": "New Zealand",
+    "Continent": "OC",
+    "Corporate Tax Rate": 28,
+    "Highest Income Tax Rate": 39,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "NZ"
+  },
+  {
+    "Country": "Nicaragua",
+    "Continent": "NO",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "NI"
+  },
+  {
+    "Country": "Niger",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 19,
+    "Summary": "",
+    "ISO": "NE"
+  },
+  {
+    "Country": "Nigeria",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 24,
+    "VAT Rate": 7.5,
+    "Summary": "",
+    "ISO": "NG"
+  },
+  {
+    "Country": "Niue",
+    "Continent": "OC",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 12.5,
+    "Summary": "",
+    "ISO": "NU"
+  },
+  {
+    "Country": "Norfolk Island",
+    "Continent": "OC",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "NF"
+  },
+  {
+    "Country": "North Macedonia",
+    "Continent": "EU",
+    "Corporate Tax Rate": 10,
+    "Highest Income Tax Rate": 18,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "MK"
+  },
+  {
+    "Country": "Norway",
+    "Continent": "EU",
+    "Corporate Tax Rate": 22,
+    "Highest Income Tax Rate": 47.4,
+    "VAT Rate": 25,
+    "Summary": "",
+    "ISO": "NO"
+  },
+  {
+    "Country": "Oman",
+    "Continent": "AS",
+    "Corporate Tax Rate": 15,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 5,
+    "Summary": "",
+    "ISO": "OM"
+  },
+  {
+    "Country": "Pakistan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 29,
+    "Highest Income Tax Rate": 45,
+    "VAT Rate": 17,
+    "Summary": "",
+    "ISO": "PK"
+  },
+  {
+    "Country": "Palau",
+    "Continent": "OC",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "PW"
+  },
+  {
+    "Country": "Palestine",
+    "Continent": "AS",
+    "Corporate Tax Rate": 15,
+    "Highest Income Tax Rate": 15,
+    "VAT Rate": 16,
+    "Summary": "",
+    "ISO": "PS"
+  },
+  {
+    "Country": "Panama",
+    "Continent": "NO",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 27,
+    "VAT Rate": 7,
+    "Summary": "",
+    "ISO": "PA"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Continent": "OC",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "PG"
+  },
+  {
+    "Country": "Paraguay",
+    "Continent": "SA",
+    "Corporate Tax Rate": 10,
+    "Highest Income Tax Rate": 10,
+    "VAT Rate": 10,
+    "Summary": "",
+    "ISO": "PY"
+  },
+  {
+    "Country": "Peru",
+    "Continent": "SA",
+    "Corporate Tax Rate": 29.5,
+    "Highest Income Tax Rate": 30,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "PE"
+  },
+  {
+    "Country": "Philippines",
+    "Continent": "AS",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 12,
+    "Summary": "",
+    "ISO": "PH"
+  },
+  {
+    "Country": "Poland",
+    "Continent": "EU",
+    "Corporate Tax Rate": 19,
+    "Highest Income Tax Rate": 45,
+    "VAT Rate": 23,
+    "Summary": "",
+    "ISO": "PL"
+  },
+  {
+    "Country": "Portugal",
+    "Continent": "EU",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 56.03,
+    "VAT Rate": 23,
+    "Summary": "",
+    "ISO": "PT"
+  },
+  {
+    "Country": "Puerto Rico",
+    "Continent": "NO",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 33.34,
+    "VAT Rate": 11.5,
+    "Summary": "",
+    "ISO": "PR"
+  },
+  {
+    "Country": "Qatar",
+    "Continent": "AS",
+    "Corporate Tax Rate": 10,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "QA"
+  },
+  {
+    "Country": "Romania",
+    "Continent": "EU",
+    "Corporate Tax Rate": 16,
+    "Highest Income Tax Rate": 45,
+    "VAT Rate": 19,
+    "Summary": "",
+    "ISO": "RO"
+  },
+  {
+    "Country": "Russia",
+    "Continent": "EU",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "RU"
+  },
+  {
+    "Country": "Rwanda",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 30,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "RW"
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Continent": "NO",
+    "Corporate Tax Rate": 33,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "KN"
+  },
+  {
+    "Country": "Saint Lucia",
+    "Continent": "NO",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "LC"
+  },
+  {
+    "Country": "Saint Martin (French Part)",
+    "Continent": "NO",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "MF"
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Continent": "NO",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "VC"
+  },
+  {
+    "Country": "Samoa",
+    "Continent": "OC",
+    "Corporate Tax Rate": 27,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "WS"
+  },
+  {
+    "Country": "San Marino",
+    "Continent": "EU",
+    "Corporate Tax Rate": 17,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 17,
+    "Summary": "",
+    "ISO": "SM"
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "ST"
+  },
+  {
+    "Country": "Sark",
+    "Continent": "EU",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "GB"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Continent": "AS",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "SA"
+  },
+  {
+    "Country": "Senegal",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 50,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "SN"
+  },
+  {
+    "Country": "Serbia",
+    "Continent": "EU",
+    "Corporate Tax Rate": 15,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "RS"
+  },
+  {
+    "Country": "Seychelles",
+    "Continent": "AF",
+    "Corporate Tax Rate": 33,
+    "Highest Income Tax Rate": 15,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "SC"
+  },
+  {
+    "Country": "Sierra Leone",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "SL"
+  },
+  {
+    "Country": "Singapore",
+    "Continent": "AS",
+    "Corporate Tax Rate": 17,
+    "Highest Income Tax Rate": 22,
+    "VAT Rate": 8,
+    "Summary": "",
+    "ISO": "SG"
+  },
+  {
+    "Country": "Sint Maarten (Dutch part)",
+    "Continent": "NO",
+    "Corporate Tax Rate": 34.5,
+    "Highest Income Tax Rate": 47.5,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "NL"
+  },
+  {
+    "Country": "Slovakia",
+    "Continent": "EU",
+    "Corporate Tax Rate": 21,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "SK"
+  },
+  {
+    "Country": "Slovenia",
+    "Continent": "EU",
+    "Corporate Tax Rate": 19,
+    "Highest Income Tax Rate": 50,
+    "VAT Rate": 22,
+    "Summary": "",
+    "ISO": "SI"
+  },
+  {
+    "Country": "Solomon Islands",
+    "Continent": "OC",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "SB"
+  },
+  {
+    "Country": "South Africa",
+    "Continent": "AF",
+    "Corporate Tax Rate": 28,
+    "Highest Income Tax Rate": 45,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "ZA"
+  },
+  {
+    "Country": "South Sudan",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "SS"
+  },
+  {
+    "Country": "Spain",
+    "Continent": "EU",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 52.3,
+    "VAT Rate": 21,
+    "Summary": "",
+    "ISO": "ES"
+  },
+  {
+    "Country": "Sri Lanka",
+    "Continent": "AS",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 36,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "LK"
+  },
+  {
+    "Country": "Sudan",
+    "Continent": "AF",
+    "Corporate Tax Rate": 35,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "SD"
+  },
+  {
+    "Country": "Suriname",
+    "Continent": "SA",
+    "Corporate Tax Rate": 36,
+    "Highest Income Tax Rate": 38,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "SR"
+  },
+  {
+    "Country": "Swaziland",
+    "Continent": "AF",
+    "Corporate Tax Rate": 27.5,
+    "Highest Income Tax Rate": 33,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "SZ"
+  },
+  {
+    "Country": "Sweden",
+    "Continent": "EU",
+    "Corporate Tax Rate": 20.6,
+    "Highest Income Tax Rate": 45.6,
+    "VAT Rate": 25,
+    "Summary": "",
+    "ISO": "SE"
+  },
+  {
+    "Country": "Switzerland",
+    "Continent": "EU",
+    "Corporate Tax Rate": 17.92,
+    "Highest Income Tax Rate": 50.14,
+    "VAT Rate": 7.7,
+    "Summary": "",
+    "ISO": "CH"
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Continent": "AS",
+    "Corporate Tax Rate": 22,
+    "Highest Income Tax Rate": 15,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "SY"
+  },
+  {
+    "Country": "Taiwan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 40,
+    "VAT Rate": 5,
+    "Summary": "",
+    "ISO": "TW"
+  },
+  {
+    "Country": "Tajikistan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 13,
+    "Highest Income Tax Rate": 25,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "TJ"
+  },
+  {
+    "Country": "Tanzania",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 30,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "TZ"
+  },
+  {
+    "Country": "Thailand",
+    "Continent": "AS",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 7,
+    "Summary": "",
+    "ISO": "TH"
+  },
+  {
+    "Country": "Togo",
+    "Continent": "AF",
+    "Corporate Tax Rate": 27,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "TG"
+  },
+  {
+    "Country": "Tokelau",
+    "Continent": "OC",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "TK"
+  },
+  {
+    "Country": "Tonga",
+    "Continent": "OC",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "TO"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Continent": "NO",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 30,
+    "VAT Rate": 12.5,
+    "Summary": "",
+    "ISO": "TT"
+  },
+  {
+    "Country": "Tunisia",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 19,
+    "Summary": "",
+    "ISO": "TN"
+  },
+  {
+    "Country": "Turkey",
+    "Continent": "AS",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 40,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "TR"
+  },
+  {
+    "Country": "Turkmenistan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 8,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "TM"
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "Continent": "NO",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "TC"
+  },
+  {
+    "Country": "Tuvalu",
+    "Continent": "OC",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "TV"
+  },
+  {
+    "Country": "Uganda",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "UG"
+  },
+  {
+    "Country": "Ukraine",
+    "Continent": "EU",
+    "Corporate Tax Rate": 18,
+    "Highest Income Tax Rate": 22,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "UA"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Continent": "AS",
+    "Corporate Tax Rate": 9,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 5,
+    "Summary": "",
+    "ISO": "AE"
+  },
+  {
+    "Country": "United Kingdom of Great Britain",
+    "Continent": "EU",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 62,
+    "VAT Rate": 20,
+    "Summary": "",
+    "ISO": "GB"
+  },
+  {
+    "Country": "United Republic of Tanzania",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 30,
+    "VAT Rate": 18,
+    "Summary": "",
+    "ISO": "TZ"
+  },
+  {
+    "Country": "United States of America",
+    "Continent": "NO",
+    "Corporate Tax Rate": 25.768,
+    "Highest Income Tax Rate": 50.3,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "US"
+  },
+  {
+    "Country": "United States Virgin Islands",
+    "Continent": "NO",
+    "Corporate Tax Rate": 21,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "VI"
+  },
+  {
+    "Country": "Uruguay",
+    "Continent": "SA",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 36,
+    "VAT Rate": 22,
+    "Summary": "",
+    "ISO": "UY"
+  },
+  {
+    "Country": "Uzbekistan",
+    "Continent": "AS",
+    "Corporate Tax Rate": 15,
+    "Highest Income Tax Rate": 20,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "UZ"
+  },
+  {
+    "Country": "Vanuatu",
+    "Continent": "OC",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 15,
+    "Summary": "",
+    "ISO": "VU"
+  },
+  {
+    "Country": "Venezuela (Bolivarian Republic of)",
+    "Continent": "SA",
+    "Corporate Tax Rate": 34,
+    "Highest Income Tax Rate": 34,
+    "VAT Rate": 16,
+    "Summary": "",
+    "ISO": "VE"
+  },
+  {
+    "Country": "Vietnam",
+    "Continent": "AS",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 35,
+    "VAT Rate": 10,
+    "Summary": "",
+    "ISO": "VN"
+  },
+  {
+    "Country": "Wallis and Futuna Islands",
+    "Continent": "OC",
+    "Corporate Tax Rate": 0,
+    "Highest Income Tax Rate": 0,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "WF"
+  },
+  {
+    "Country": "Yemen",
+    "Continent": "AS",
+    "Corporate Tax Rate": 20,
+    "Highest Income Tax Rate": 15,
+    "VAT Rate": 0,
+    "Summary": "",
+    "ISO": "YE"
+  },
+  {
+    "Country": "Zambia",
+    "Continent": "AF",
+    "Corporate Tax Rate": 30,
+    "Highest Income Tax Rate": 30,
+    "VAT Rate": 16,
+    "Summary": "",
+    "ISO": "ZM"
+  },
+  {
+    "Country": "Zimbabwe",
+    "Continent": "AF",
+    "Corporate Tax Rate": 25,
+    "Highest Income Tax Rate": 45,
+    "VAT Rate": 14.5,
+    "Summary": "",
+    "ISO": "ZW"
+  }
+]
