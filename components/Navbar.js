@@ -29,6 +29,7 @@ export default function Navbar() {
           alt="Spinning Globe"
           width={60}
           height={60}
+          unoptimized
           className="pointer-events-none select-none"
         />
       </div>
