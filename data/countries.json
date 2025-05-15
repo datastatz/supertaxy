@@ -909,15 +909,6 @@
     "ISO": "IM"
   },
   {
-    "Country": "Israel",
-    "Continent": "AS",
-    "Corporate Tax Rate": 23,
-    "Highest Income Tax Rate": 50,
-    "VAT Rate": 17,
-    "Summary": "",
-    "ISO": "IL"
-  },
-  {
     "Country": "Italy",
     "Continent": "EU",
     "Corporate Tax Rate": 27.9,
