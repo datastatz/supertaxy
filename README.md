@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Super Taxy
 
-## Getting Started
+**The most powerful and clean global tax comparison tool.**  
+Browse tax rates across every country — corporate, income, VAT (with more to come) — all in one place.
 
-First, run the development server:
+🌍 Built to become the **#1 global tax platform**, fully **open-source** and **free to use**.  
+We aim to crowdsource and maintain the most accurate global tax data.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Vision
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Super Taxy exists to make international tax transparency accessible to everyone — investors, digital nomads, startups, and curious minds. Eventually, we want a global community contributing and updating tax information in real time.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Roadmap
+- 🌐 Tax search, sort, filter by parameters
+- 📊 Total tax burden analysis
+- 🧭 Globe-based navigation
+- 🤝 Open-source collaboration
+- 📈 Analytics + Feedback
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Coming Soon
+- Personal and business tax calculators
+- Real-time tax update monitoring
+- Country guides and tips
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Super Taxy is licensed under **CC BY-NC 4.0 (No Derivatives)**.  
+Please see `LICENSE` for full terms.
