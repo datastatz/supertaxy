@@ -14,13 +14,33 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+
 export const metadata = {
   title: "Super Taxy",
-  description: "Explore and compare global tax rates.",
-  icons: {
-    icon: "/favicon.png", // ✅ No "/public"
+  description: "Explore and compare global tax rates — open source and free.",
+  openGraph: {
+    title: "Super Taxy",
+    description: "Explore and compare global tax rates — open source and free.",
+    url: "https://supertaxy.com",
+    siteName: "Super Taxy",
+    images: [
+      {
+        url: "/super-taxy-preview.png",
+        width: 1200,
+        height: 630,
+        alt: "Super Taxy Preview",
+      },
+    ],
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Super Taxy",
+    description: "Explore and compare global tax rates — open source and free.",
+    images: ["/super-taxy-preview.png"],
   },
 };
+
 
 
 export default function RootLayout({ children }) {
